@@ -16,6 +16,9 @@ Before running the project scripts, ensure that the conda environment is activat
 git clone https://github.com/username/repo.git
 # Navigate to the project's directory
 `cd repo`
+
+# Create Project Structure
+`python template.py`
 # Create conda environment
 `conda create -p myenv python=3.10`
 # Activate the environment
